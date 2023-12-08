@@ -1,5 +1,3 @@
-# Andrew_Ng_ML_Specialization
-
 # Machine Learning Specialization by Andrew Ng
 
 This repository contains my solutions to the programming assignments from the [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning) by Andrew Ng on Coursera.
