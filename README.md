@@ -6,9 +6,9 @@ This repository contains my solutions to the programming assignments from the [M
 
 1. [Linear Regression](C1_W2_linear_regression)
 2. [Logistic Regression](C1_W3_logistic_regression)
-3. [Neural Networks for Handwritten Digit Recognition - Binary](C2_W1_Neural Networks for Handwritten Digit Recognition, Binary)
-4. [Neural Networks for Handwritten Digit Recognition - Multiclass](C2_W2_Neural Networks for Handwritten Digit Recognition, Multiclass)
-5. [Advice for Applying Machine Learning](C2_W3_Advice for Applying Machine Learning)
+3. [Neural Networks for Handwritten Digit Recognition - Binary](C2 W1 Neural Networks for Handwritten Digit Recognition, Binary)
+4. [Neural Networks for Handwritten Digit Recognition - Multiclass](C2 W2 Neural Networks for Handwritten Digit Recognition, Multiclass)
+5. [Advice for Applying Machine Learning](C2 W3 Advice for Applying Machine Learning)
 6. [Decision Trees](C2_W4_Decision Trees)
 7. [Anomaly Detection](C3_W1_Anomaly_Detection)
 8. [KMeans](C3_W1_KMeans)
